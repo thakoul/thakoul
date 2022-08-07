@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thakoul
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Html, CSS & Javascript
+- 🌱 I’m currently learning PHP, Html, CSS & Javascript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Email:thakoul@gmail.com
 
