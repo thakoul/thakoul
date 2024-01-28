@@ -3,11 +3,11 @@
 
 <ul>
   <li>HTML</li>
-  <li>CSS,Sass</li>
+  <li>CSS, Sass</li>
   <li>JavaScript</li>
   <li>Python</li>
   <li>PHP</li>
-  <li>MySQL/SQL</li>
+  <li>MySQL, SQL</li>
 </ul>
 
 <h2>CSS Frameworks</h2>
