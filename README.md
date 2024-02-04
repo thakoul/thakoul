@@ -13,6 +13,7 @@
 <h2>CSS Frameworks</h2>
 <ul>
   <li>Bootstrap</li>
+  <li>Tailwind CSS</li>
 </ul>
 
 <h2>Python Frameworks</h2>
